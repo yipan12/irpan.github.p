@@ -1,0 +1,25 @@
+body {
+}
+
+.jumbotron {
+  padding-top: 6rem;
+  background-color: #e2edff;
+}
+
+h2 {
+  padding-top: 2rem;
+}
+.images {
+  float: left;
+  border-radius: 70%;
+}
+.images2 {
+  width: 160px;
+  height: 160px;
+  border-radius: 70%;
+  float: left;
+}
+
+section {
+  padding-top: 5rem;
+}
